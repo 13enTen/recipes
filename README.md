@@ -1,0 +1,1 @@
+This is a beginner project that involves creating a website. The website contains various recipes and is built using HTML and CSS.
