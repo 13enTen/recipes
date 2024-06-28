@@ -1,7 +1,35 @@
 body {
-    background-color: wheat;
+    background-color: antiquewhite;
     font-family: 'Brush Script MT', 'Courier New', serif;
     font-size: 24px;
+}
+
+.food-images-container {
+    font-size: 0;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.pizza-image-container,
+.lasagna-image-container,
+.burger-image-container {
+    font-size: 20px;
+    display: inline-block;
+    margin: 0 25px;
+}
+
+.pizza-image,
+.lasagna-image,
+.burger-image {
+    width: 350px;
+    height: auto;
+    border-radius: 25px;
+}
+
+a {
+    display: block;
+    text-align: center;
+    font-size: 30px;
 }
 
 h1 {
